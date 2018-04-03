@@ -1,0 +1,28 @@
+c:\users\ovi\documents\visual studio 2015\Projects\SavingHiddenFile\SavingHiddenFile\obj\Debug\SavingHiddenFile.Form1.resources
+c:\users\ovi\documents\visual studio 2015\Projects\SavingHiddenFile\SavingHiddenFile\obj\Debug\SavingHiddenFile.Properties.Resources.resources
+c:\users\ovi\documents\visual studio 2015\Projects\SavingHiddenFile\SavingHiddenFile\obj\Debug\SavingHiddenFile.csproj.GenerateResource.Cache
+c:\users\ovi\documents\visual studio 2015\Projects\SavingHiddenFile\SavingHiddenFile\obj\Debug\SavingHiddenFile.CreateUserAndPass.resources
+C:\Users\Ovi\Documents\Visual Studio 2015\Projects\SavingHiddenFile\SavingHiddenFile\obj\Debug\SavingHiddenFile.csprojResolveAssemblyReference.cache
+C:\Users\Ovi\Documents\Visual Studio 2015\Projects\SavingHiddenFile\SavingHiddenFile\obj\Debug\SavingHiddenFile.Menu.resources
+C:\Users\Ovi\Documents\Visual Studio 2015\Projects\SavingHiddenFile\SavingHiddenFile\obj\Debug\SavingHiddenFile.LogInAccount.resources
+C:\Users\Ovi\Documents\Visual Studio 2015\Projects\SavingHiddenFile\SavingHiddenFile\obj\Debug\SavingHiddenFile.UserForm.resources
+C:\Users\Ovi\Documents\Visual Studio 2015\Projects\SavingHiddenFile\SavingHiddenFile\obj\Debug\SavingHiddenFile.LoadingFormsd.resources
+C:\Users\Ovi\Documents\Visual Studio 2015\Projects\SavingHiddenFile\SavingHiddenFile\bin\Debug\Digital Notebook.exe.config
+C:\Users\Ovi\Documents\Visual Studio 2015\Projects\SavingHiddenFile\SavingHiddenFile\bin\Debug\Digital Notebook.exe
+C:\Users\Ovi\Documents\Visual Studio 2015\Projects\SavingHiddenFile\SavingHiddenFile\bin\Debug\Digital Notebook.pdb
+C:\Users\Ovi\Documents\Visual Studio 2015\Projects\SavingHiddenFile\SavingHiddenFile\obj\Debug\Digital Notebook.exe
+C:\Users\Ovi\Documents\Visual Studio 2015\Projects\SavingHiddenFile\SavingHiddenFile\obj\Debug\Digital Notebook.pdb
+C:\Users\Ovi\Documents\Visual Studio 2015\Projects\Finals\SavingHiddenFile\SavingHiddenFile\bin\Debug\Digital Notebook.exe.config
+C:\Users\Ovi\Documents\Visual Studio 2015\Projects\Finals\SavingHiddenFile\SavingHiddenFile\bin\Debug\Digital Notebook.exe
+C:\Users\Ovi\Documents\Visual Studio 2015\Projects\Finals\SavingHiddenFile\SavingHiddenFile\bin\Debug\Digital Notebook.pdb
+C:\Users\Ovi\Documents\Visual Studio 2015\Projects\Finals\SavingHiddenFile\SavingHiddenFile\obj\Debug\SavingHiddenFile.csprojResolveAssemblyReference.cache
+C:\Users\Ovi\Documents\Visual Studio 2015\Projects\Finals\SavingHiddenFile\SavingHiddenFile\obj\Debug\SavingHiddenFile.CreateUserAndPass.resources
+C:\Users\Ovi\Documents\Visual Studio 2015\Projects\Finals\SavingHiddenFile\SavingHiddenFile\obj\Debug\SavingHiddenFile.Form1.resources
+C:\Users\Ovi\Documents\Visual Studio 2015\Projects\Finals\SavingHiddenFile\SavingHiddenFile\obj\Debug\SavingHiddenFile.LoadingFormsd.resources
+C:\Users\Ovi\Documents\Visual Studio 2015\Projects\Finals\SavingHiddenFile\SavingHiddenFile\obj\Debug\SavingHiddenFile.LogInAccount.resources
+C:\Users\Ovi\Documents\Visual Studio 2015\Projects\Finals\SavingHiddenFile\SavingHiddenFile\obj\Debug\SavingHiddenFile.Menu.resources
+C:\Users\Ovi\Documents\Visual Studio 2015\Projects\Finals\SavingHiddenFile\SavingHiddenFile\obj\Debug\SavingHiddenFile.Properties.Resources.resources
+C:\Users\Ovi\Documents\Visual Studio 2015\Projects\Finals\SavingHiddenFile\SavingHiddenFile\obj\Debug\SavingHiddenFile.UserForm.resources
+C:\Users\Ovi\Documents\Visual Studio 2015\Projects\Finals\SavingHiddenFile\SavingHiddenFile\obj\Debug\SavingHiddenFile.csproj.GenerateResource.Cache
+C:\Users\Ovi\Documents\Visual Studio 2015\Projects\Finals\SavingHiddenFile\SavingHiddenFile\obj\Debug\Digital Notebook.exe
+C:\Users\Ovi\Documents\Visual Studio 2015\Projects\Finals\SavingHiddenFile\SavingHiddenFile\obj\Debug\Digital Notebook.pdb
